@@ -1,3 +1,5 @@
+(https://www.dropbox.com/s/h9olywxkk8pkwb4/DeepInsight-FS_pkg.tar.gz?dl=0)
+
 ## Download and Install
 
 1. Download Matlab package DeepInsight-FS_pkg.tar.gz from the link provided in the paper. Store it in your working directory. Gunzip and untar as follows:
@@ -61,7 +63,7 @@
     ![](/images/image2.png)
     ![](/images/image3.png)
     ![](/images/image4.png)
-    
+
     ```
     TIME = 770.6822
 
