@@ -1,4 +1,5 @@
-(https://www.dropbox.com/s/h9olywxkk8pkwb4/DeepInsight-FS_pkg.tar.gz?dl=0)
+(/archive/DeepInsight-FS_pkg.zip)
+(/archive/DeepInsight-FS_pkg.tar.gz)
 
 ## Download and Install
 
