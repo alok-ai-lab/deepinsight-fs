@@ -1,13 +1,13 @@
 ## Download and Install
 
-1. Download Matlab package DeepInsight-FS_pkg.tar.gz from the link provided in the paper. Store it in your working directory. Gunzip and untar as follows:
+1. Download Matlab package DeepInsight-FS_pkg.tar.gz from the link above. Store it in your working directory. Gunzip and untar as follows:
 
     ```Matlab
     >> gunzip DeepInsight-FS_pkg.tar.gz
     >> tar -xvf DeepInsight-FS_pkg.tar
     ```
 
-2. Follow the link in the paper and download RNA-seq data (caution: data size is 1.5GB). The dataset is given in .mat file format of Matlab. Place the data file ‘dataset1.mat’ in the folder, `~/DeepInsight-FS_pkg/Data/`
+2. Follow the link: [RNA-Seq Data](http://emu.src.riken.jp/DeepInsightFS/dataset1.mat) to download the RNA-seq data (caution: data size is 1.5GB). The dataset is given in .mat file format of Matlab. Place the data file ‘dataset1.mat’ in the folder, `~/DeepInsight-FS_pkg/Data/`
 
 3. Download and Install Squeezenet in Matlab, see details about Squeezenet from MathWorks [link](https://www.mathworks.com/help/deeplearning/ref/squeezenet.html).
 
