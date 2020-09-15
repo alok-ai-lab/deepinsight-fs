@@ -33,8 +33,9 @@
     Pixels: 227 x 227
     Input Size 1 x Input Size 2: 227 x 227
     Data Preparation ends
-    Training model begins (note that the below values might differ)
+    Training model begins
     ```
+    *Note that the below values might differ.*
     ![](/images/status.png)
 
     Objective function image will be shown for the Bayesian Optimization Technique
