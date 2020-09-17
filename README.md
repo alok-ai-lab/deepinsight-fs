@@ -1,3 +1,7 @@
+# DeepInsight-FS
+
+DeepInsight-FS converts non-image samples into image-form and performs element selection via convolutional neural network (CNN). This approach builds an image by arranging elements (or genes) by finding similarity among them and then by mapping the non-image values on to these aligned pixel locations. This approach employs CNN for element or gene selection on non-image data. A real world application of DeepInsight-FS to publicly available cancer data identified gene sets with significant overlap to several cancer-associated pathways suggesting the potential of this method to discover biomedically meaningful connections. 
+
 ## Download and Install
 
 1. Download Matlab package DeepInsight-FS_pkg.tar.gz from the link above. Store it in your working directory. Gunzip and untar as follows:
@@ -83,8 +87,6 @@
 `~/DeepInsight-FS_pkg/FIGS/Run1/StageX` where X is the current stage; i.e., ‘2’ here.
 
 * If the loop continues then the value of X will increment to 3, 4, …; i.e., repeating DeepInsight-FS model to find a smaller subset of genes.
-
-
 
 ## Description of files and folders
 
@@ -189,3 +191,7 @@ A number of parameters/variables are used to control the DeepInsight-FS_pkg. The
 14. Log and performance file (including an overview of parameter information)
 
     The runtime results will be stored in `~/DeepInsight_FS/DeepInsight_Results.txt` with complete information about the run.
+
+## DeepInsight
+
+A YouTube video about the original DeepInsight method is available [here](https://www.youtube.com/watch?v=411iwaptk24&feature=youtu.be).
