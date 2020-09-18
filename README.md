@@ -11,7 +11,7 @@ DeepInsight-FS converts non-image samples into image-form and performs element s
     >> tar -xvf DeepInsight-FS_pkg.tar
     ```
 
-2. Follow the link: [RNA-Seq Data](https://www.dropbox.com/s/8kduuhzs0rd4aln/dataset1.mat?dl=0) to download the RNA-seq data (caution: data size is 1.5GB). The dataset is given in .mat file format of Matlab. Place the data file ‘dataset1.mat’ in the folder, `~/DeepInsight-FS_pkg/Data/`
+2. Follow the link: [RNA-Seq Data](http://emu.src.riken.jp/DeepInsightFS/dataset1.mat) to download the RNA-seq data (caution: data size is 1.5GB). The dataset is given in .mat file format of Matlab. Place the data file ‘dataset1.mat’ in the folder, `~/DeepInsight-FS_pkg/Data/`
 
 3. Download and Install Squeezenet in Matlab, see details about Squeezenet from MathWorks [link](https://www.mathworks.com/help/deeplearning/ref/squeezenet.html).
 
